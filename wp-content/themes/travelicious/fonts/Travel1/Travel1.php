@@ -1,0 +1,42 @@
+<?php
+
+$set = strtolower( basename(__FILE__, '.php') );
+
+$$set = array(
+	'wallet (Travel1 set)' => $set . '_e900',
+	'trekking (Travel1 set)' => $set . '_e901',
+	'boarding-pass (Travel1 set)' => $set . '_e902',
+	'train (Travel1 set)' => $set . '_e903',
+	'binoculars (Travel1 set)' => $set . '_e904',
+	'swimming-pool (Travel1 set)' => $set . '_e905',
+	'sunset (Travel1 set)' => $set . '_e906',
+	'sunglasses (Travel1 set)' => $set . '_e907',
+	'suitcase (Travel1 set)' => $set . '_e908',
+	'goggle (Travel1 set)' => $set . '_e909',
+	'restaurant (Travel1 set)' => $set . '_e90a',
+	'postcard (Travel1 set)' => $set . '_e90b',
+	'adaptor (Travel1 set)' => $set . '_e90c',
+	'photo (Travel1 set)' => $set . '_e90d',
+	'passport (Travel1 set)' => $set . '_e90e',
+	'navigation (Travel1 set)' => $set . '_e90f',
+	'mountain (Travel1 set)' => $set . '_e910',
+	'map-1 (Travel1 set)' => $set . '_e911',
+	'limousine (Travel1 set)' => $set . '_e912',
+	'landmark (Travel1 set)' => $set . '_e913',
+	'resort (Travel1 set)' => $set . '_e914',
+	'sign (Travel1 set)' => $set . '_e915',
+	'flip-flops (Travel1 set)' => $set . '_e916',
+	'map (Travel1 set)' => $set . '_e917',
+	'take-off (Travel1 set)' => $set . '_e918',
+	'boat (Travel1 set)' => $set . '_e919',
+	'compass (Travel1 set)' => $set . '_e91a',
+	'cocktail-1 (Travel1 set)' => $set . '_e91b',
+	'cocktail (Travel1 set)' => $set . '_e91c',
+	'credit-card (Travel1 set)' => $set . '_e91d',
+	'camera (Travel1 set)' => $set . '_e91e',
+	'calendar (Travel1 set)' => $set . '_e91f',
+	'island (Travel1 set)' => $set . '_e920',
+	'beach (Travel1 set)' => $set . '_e921',
+	'around (Travel1 set)' => $set . '_e922',
+	'plane (Travel1 set)' => $set . '_e923'
+);

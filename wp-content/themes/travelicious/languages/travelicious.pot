@@ -1,0 +1,3027 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: php/before_framework.php:1196 php/before_framework.php:1198
+#: php/before_framework.php:1200 php/before_framework.php:1202
+#: php/before_framework.php:1204 php/before_framework.php:1206
+#: php/before_framework.php:1208 php/before_framework.php:1212
+#: php/before_framework.php:1215
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-28 11:37+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:14
+msgid "WE ARE SORRY YOU GOT LOST"
+msgstr ""
+
+#: 404.php:15
+msgid "Error 404."
+msgstr ""
+
+#: 404.php:16
+msgid "Go back to homepage"
+msgstr ""
+
+#: archive-portfolio-category.php:82 archive-portfolio.php:80
+#: archive-tour.php:36 index.php:105
+msgid "We are sorry, no results for: "
+msgstr ""
+
+#: archive-portfolio-category.php:83 archive-portfolio.php:81
+#: archive-tour.php:37 index.php:106
+msgid "Back to homepage"
+msgstr ""
+
+#: comments-tour.php:13
+msgid "User Reviews &amp; Comments"
+msgstr ""
+
+#: comments-tour.php:18 comments-tour.php:21 comments-tour.php:25
+#: comments.php:21 comments.php:24 comments.php:28
+msgid "Older Comments"
+msgstr ""
+
+#: comments-tour.php:19 comments-tour.php:23 comments-tour.php:27
+#: comments.php:22 comments.php:26 comments.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: comments-tour.php:45 comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: comments-tour.php:52
+msgid "Show more reviews"
+msgstr ""
+
+#: comments-tour.php:60
+msgid "There are no comments yet."
+msgstr ""
+
+#: comments-tour.php:74
+msgid "Name *"
+msgstr ""
+
+#: comments-tour.php:79
+msgid "Email *"
+msgstr ""
+
+#: comments-tour.php:83 comments.php:71
+msgid "Website"
+msgstr ""
+
+#: comments-tour.php:86
+msgid "Comment *"
+msgstr ""
+
+#: comments-tour.php:94
+msgid "Write your Review"
+msgstr ""
+
+#: comments-tour.php:95
+#, php-format
+msgid "Leave a review to %s"
+msgstr ""
+
+#: comments-tour.php:96
+msgid "Cancel review"
+msgstr ""
+
+#: comments-tour.php:97
+msgid "Submit review"
+msgstr ""
+
+#: comments-tour.php:99 comments.php:80 comments.php:82
+msgid "Post Comment"
+msgstr ""
+
+#: comments-tour.php:99
+msgid "Submit Your Review"
+msgstr ""
+
+#: comments-tour.php:103 comments.php:89
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments-tour.php:109 comments.php:95
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"%4$s\">"
+"%5$s</a>"
+msgstr ""
+
+#: comments-tour.php:113 comments.php:99
+msgid "Log out of this account"
+msgstr ""
+
+#: comments-tour.php:114 comments.php:100
+msgid "Log out?"
+msgstr ""
+
+#: comments-tour.php:118 comments.php:104
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments-tour.php:118 comments.php:104
+msgid "Required fields are marked *"
+msgstr ""
+
+#: comments.php:14
+#, php-format
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:62 woocommerce/single-product-reviews.php:81
+msgid "Name"
+msgstr ""
+
+#: comments.php:67 woocommerce/single-product-reviews.php:83
+msgid "Email"
+msgstr ""
+
+#: comments.php:77
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:78 woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:79
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:84
+msgid "Comment"
+msgstr ""
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:42
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:184
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:126
+msgid "Current month"
+msgstr ""
+
+#: functions.php:185
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:127
+msgid "Clear"
+msgstr ""
+
+#: functions.php:187
+msgid "Day"
+msgstr ""
+
+#: functions.php:188
+msgid "Month"
+msgstr ""
+
+#: functions.php:189
+msgid "Year"
+msgstr ""
+
+#: functions.php:212
+msgid "Travelicious"
+msgstr ""
+
+#: functions.php:222
+msgid "Cost Calculator"
+msgstr ""
+
+#: functions.php:232
+msgid "Bold Timeline"
+msgstr ""
+
+#: functions.php:242
+msgid "Bold Builder"
+msgstr ""
+
+#: functions.php:249
+msgid "BoldThemes WordPress Importer"
+msgstr ""
+
+#: functions.php:259
+msgid "Meta Box"
+msgstr ""
+
+#: functions.php:266
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:273
+msgid "Lightweight Sidebar Manager"
+msgstr ""
+
+#: functions.php:290 framework/class-tgm-plugin-activation.php:332
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:291 framework/class-tgm-plugin-activation.php:333
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:292 framework/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:293 framework/class-tgm-plugin-activation.php:338
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:294 framework/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:295 framework/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:296
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:297 framework/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:298 framework/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:299
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:300 framework/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:301
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:302 framework/class-tgm-plugin-activation.php:376
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:303 framework/class-tgm-plugin-activation.php:386
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:304 framework/class-tgm-plugin-activation.php:390
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:305 framework/class-tgm-plugin-activation.php:392
+#: framework/class-tgm-plugin-activation.php:3231
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:306
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:339 functions.php:354 functions.php:369 functions.php:384
+#: functions.php:399
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:430
+msgid "Shop Sidebar"
+msgstr ""
+
+#: page.php:13 views/portfolio/single/columns.php:54
+#: views/portfolio/single/standard.php:48 views/post/single/columns.php:47
+#: views/post/single/standard.php:38
+msgid "Pages:"
+msgstr ""
+
+#: amp/amp.php:652
+msgctxt "Barlow font: on or off"
+msgid "on"
+msgstr ""
+
+#: amp/amp.php:661
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_google_maps_location/bt_bb_google_maps_location.php:52
+msgid "Google Maps Location"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_google_maps_location/bt_bb_google_maps_location.php:52
+msgid "Google Maps location"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_google_maps_location/bt_bb_google_maps_location.php:54
+#: bold-page-builder/content_elements/bt_bb_openmap_location/bt_bb_openmap_location.php:29
+msgid "Latitude"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_google_maps_location/bt_bb_google_maps_location.php:55
+#: bold-page-builder/content_elements/bt_bb_openmap_location/bt_bb_openmap_location.php:30
+msgid "Longitude"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_google_maps_location/bt_bb_google_maps_location.php:56
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:132
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:134
+#: bold-page-builder/content_elements/bt_bb_openmap_location/bt_bb_openmap_location.php:31
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:256
+msgid "Icon"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:132
+msgid "Single icon with link"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:135
+msgid "Text"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:136
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:257
+msgid "URL"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:137
+msgid "Target"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:139
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:260
+msgid "Self (open in same tab)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:140
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:261
+msgid "Blank (open in new tab)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:143
+msgid "Alignment"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:145
+msgid "Inherit"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:146
+#: bold-page-builder/content_elements/bt_bb_tour_tag/bt_bb_tour_tag.php:70
+#: framework/customization.php:443
+msgid "Left"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:147
+#: bold-page-builder/content_elements/bt_bb_tour_tag/bt_bb_tour_tag.php:71
+#: framework/customization.php:444
+msgid "Right"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:150
+#: bold-page-builder/content_elements/bt_bb_tour_tag/bt_bb_tour_tag.php:74
+msgid "Vertical position"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:152
+#: framework/customization.php:315 php/after_framework.php:141
+msgid "Default"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:153
+msgid "Half above"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:154
+msgid "Full above"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:157
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:264
+msgid "Size"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:159
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:235
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:240
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:233
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:267
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:275
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:285
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:220
+#: framework/customization.php:948 framework/customization.php:1198
+#: php/after_framework.php:402 php/after_framework.php:541
+#: php/after_framework.php:765
+msgid "Small"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:160
+msgid "Extra small"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:161
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:236
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:241
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:234
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:266
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:276
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:286
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:221
+#: framework/customization.php:949 framework/customization.php:1199
+#: php/after_framework.php:403 php/after_framework.php:542
+#: php/after_framework.php:766
+msgid "Normal"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:162
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:237
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:242
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:235
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:269
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:278
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:288
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:222
+#: framework/customization.php:950 framework/customization.php:1200
+#: php/after_framework.php:404 php/after_framework.php:543
+#: php/after_framework.php:767
+msgid "Large"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:163
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:270
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:279
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:289
+msgid "Extra large"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:166
+msgid "Color scheme"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:166
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:167
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:174
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:273
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:282
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:292
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:293
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:294
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:295
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:296
+msgid "Design"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:167
+#: bold-page-builder/content_elements/bt_bb_tour_tag/bt_bb_tour_tag.php:80
+msgid "Style"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:169
+msgid "Outline"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:170
+msgid "Filled"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:171
+msgid "Borderless"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:174
+msgid "Shape"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:176
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:243
+msgid "Circle"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:177
+#: framework/customization.php:889
+msgid "Square"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_icon/bt_bb_icon.php:178
+msgid "Rounded Square"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:61
+#: framework/boldthemes_functions.php:1526
+msgid "by"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:195
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:199
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:192
+msgid "All"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:219
+msgid "Destination Grid"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:219
+msgid "Masonry destination grid"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:221
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:226
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:217
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:208
+msgid "Number of items"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:221
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:226
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:217
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:208
+msgid "Enter number of items or leave empty to show all (up to 1000)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:222
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:227
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:220
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:209
+#: framework/customization.php:977 framework/customization.php:1005
+#: framework/customization.php:1227 framework/customization.php:1254
+#: php/after_framework.php:266
+msgid "Columns"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:224
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:229
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:222
+#: php/after_framework.php:1566 php/after_framework.php:1665
+#: php/after_framework.php:1764 php/after_framework.php:1863
+#: php/after_framework.php:1962 php/after_framework.php:2061
+#: php/after_framework.php:2160
+msgid "1"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:225
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:230
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:223
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:211
+#: framework/customization.php:917 framework/customization.php:1167
+#: php/after_framework.php:373 php/after_framework.php:510
+#: php/after_framework.php:793 php/after_framework.php:1567
+#: php/after_framework.php:1666 php/after_framework.php:1765
+#: php/after_framework.php:1864 php/after_framework.php:1963
+#: php/after_framework.php:2062 php/after_framework.php:2161
+msgid "2"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:226
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:231
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:224
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:212
+#: framework/customization.php:918 framework/customization.php:1168
+#: php/after_framework.php:374 php/after_framework.php:511
+#: php/after_framework.php:794 php/after_framework.php:1568
+#: php/after_framework.php:1667 php/after_framework.php:1766
+#: php/after_framework.php:1865 php/after_framework.php:1964
+#: php/after_framework.php:2063 php/after_framework.php:2162
+msgid "3"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:227
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:232
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:225
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:213
+#: framework/customization.php:919 framework/customization.php:1169
+#: php/after_framework.php:375 php/after_framework.php:512
+#: php/after_framework.php:795 php/after_framework.php:1569
+#: php/after_framework.php:1668 php/after_framework.php:1767
+#: php/after_framework.php:1866 php/after_framework.php:1965
+#: php/after_framework.php:2064 php/after_framework.php:2163
+msgid "4"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:228
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:233
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:226
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:214
+#: framework/customization.php:920 framework/customization.php:1170
+#: php/after_framework.php:376 php/after_framework.php:513
+#: php/after_framework.php:796 php/after_framework.php:1570
+#: php/after_framework.php:1669 php/after_framework.php:1768
+#: php/after_framework.php:1867 php/after_framework.php:1966
+#: php/after_framework.php:2065 php/after_framework.php:2164
+msgid "5"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:229
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:234
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:227
+#: framework/customization.php:921 framework/customization.php:1171
+#: php/after_framework.php:514 php/after_framework.php:1571
+#: php/after_framework.php:1670 php/after_framework.php:1769
+#: php/after_framework.php:1868 php/after_framework.php:1967
+#: php/after_framework.php:2066 php/after_framework.php:2165
+msgid "6"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:232
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:237
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:230
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:217
+msgid "Gap"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:234
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:239
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:232
+#: framework/customization.php:947 framework/customization.php:1197
+#: php/after_framework.php:540
+msgid "No gap"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:240
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:245
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:238
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:206
+#: framework/boldthemes_functions.php:1719
+#: framework/boldthemes_functions.php:1725 php/after_framework.php:454
+#: php/before_framework.php:279 php/before_framework.php:285
+msgid "Category"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:240
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:245
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:238
+msgid "Enter category slug or leave empty to show all"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:241
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:246
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:239
+msgid "Category filter"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:243
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:248
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:241
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:57
+msgid "No"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:244
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:248
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:250
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:252
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:254
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:256
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:258
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:249
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:254
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:256
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:218
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:242
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:247
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:249
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:58
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:62
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:79
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:80
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:81
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:82
+msgid "Yes"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:248
+msgid "Show category"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:250
+msgid "Show date"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:252
+msgid "Show author"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:254
+msgid "Show number of comments"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:256
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:256
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:249
+msgid "Show excerpt"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_grid/bt_bb_masonry_portfolio_grid.php:258
+msgid "Show share icons"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:224
+msgid "Destination Tiles"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:224
+msgid "Masonry tiles with destination"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:252
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:245
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:225
+msgid "Tiles format"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:252
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:245
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:225
+msgid "e.g. 11, 21, 12, 22"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_portfolio_tiles/bt_bb_masonry_portfolio_tiles.php:254
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:247
+msgid "Show title"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:215
+msgid "Masonry Post Tiles"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:215
+msgid "Masonry tiles with post"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_tiles/bt_bb_masonry_post_tiles.php:218
+msgid "Load more items on scroll"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:39
+msgid "OSM Maps"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:39
+msgid ""
+"OpenStreetMap Maps with custom content ( Deprecated, use OpenStreetMap )"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:41
+msgid "Zoom (e.g. 14)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:42
+msgid "Height (e.g. 250px)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:42
+msgid "Used when there is no content"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:43
+msgid "OSM Map Style"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:45
+#: php/after_framework.php:2192
+msgid "Style 1 - Mapnik OSM"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:46
+#: php/after_framework.php:2193
+msgid "Style 2 - Wikimedia"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:47
+#: php/after_framework.php:2194
+msgid "Style 3 - OSM Hot"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:48
+#: php/after_framework.php:2195
+msgid "Style 4 - Stamen Watercolor"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:49
+#: php/after_framework.php:2196
+msgid "Style 5 - Stamen Terrain"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:50
+#: php/after_framework.php:2197
+msgid "Style 6 - Stamen Toner"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:51
+#: php/after_framework.php:2198
+msgid "Style 7 - Carto Dark"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:52
+#: php/after_framework.php:2199
+msgid "Style 8 - Carto Light"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:55
+msgid "Center map"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:59
+msgid "Yes (without overlay initially)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap/bt_bb_openmap.php:62
+msgid "Scroll Wheel Zoom"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap_location/bt_bb_openmap_location.php:27
+msgid "OSM Maps Location"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_openmap_location/bt_bb_openmap_location.php:27
+msgid "OpenStreetMap Maps location"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:238
+msgid "Advanced Progress bar"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:240
+msgid "Progress Bar Type"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:242
+msgid "Semi circle"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:246
+msgid "Percentage"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:247
+msgid "Animation duration"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:248
+msgid "Easing"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:250
+msgid "Linear"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:251
+msgid "Ease In Out"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:252
+msgid "Bounce"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:255
+msgid "Text below the icon or percentage"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:258
+msgid "URL Target"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:268
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:277
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:287
+msgid "Medium"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:273
+msgid "Progress bar thickness"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:282
+msgid "Progress bar trail thickness"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:284
+msgid "Same as progress bar"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:292
+msgid "Starting Progress Bar Background color"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:293
+msgid "Ending Progress Bar Background color"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:294
+msgid "Text color"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:295
+msgid "Color for lighter trail stroke underneath the actual progress path"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar_advanced/bt_bb_progress_bar_advanced.php:296
+msgid "Fill color"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:195
+msgid "Tour List"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:195
+msgid "List of Tours Presentation"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:197
+#: bold-page-builder/content_elements/bt_bb_tour_single/bt_bb_tour_single.php:90
+msgid "Tour View Type"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:199
+#: bold-page-builder/content_elements/bt_bb_tour_single/bt_bb_tour_single.php:92
+#: php/after_framework.php:481 php/after_framework.php:735
+msgid "List"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:200
+#: bold-page-builder/content_elements/bt_bb_tour_single/bt_bb_tour_single.php:93
+#: php/after_framework.php:482 php/after_framework.php:736
+msgid "Regular"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:201
+#: bold-page-builder/content_elements/bt_bb_tour_single/bt_bb_tour_single.php:94
+#: php/after_framework.php:483 php/after_framework.php:737
+#: php/after_framework.php:1717 php/before_framework.php:1202
+msgid "Gallery"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:202
+#: bold-page-builder/content_elements/bt_bb_tour_single/bt_bb_tour_single.php:95
+#: php/after_framework.php:484 php/after_framework.php:738
+msgid "Tiles"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:205
+#: php/before_framework.php:264 php/before_framework.php:266
+msgid "Tour"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:205
+msgid ""
+"Enter tour slug or tour slugs separated by ; or leave empty to show all. If "
+"tour slug is entered, categories and destinations leave empty. Order for "
+"list will be by entered slugs."
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:206
+msgid ""
+"Enter category slug or categories slugs separated by ; or leave empty to "
+"show all"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:207
+#: php/after_framework.php:455 views/forms.php:55
+msgid "Destination"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:207
+msgid ""
+"Enter destination slug or destinations slugs separated by ; or leave empty "
+"to show all"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:208
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:209
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:217
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:225
+msgid "Format"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:219
+#: php/after_framework.php:401 php/after_framework.php:764
+msgid "No Gap"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:227
+#: views/tour/list/search.php:79
+msgid "Sort by"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:229
+#: views/tour/list/search.php:81
+msgid "Sort by date ascending"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:230
+#: views/tour/list/search.php:82
+msgid "Sort by date descending"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:231
+#: views/tour/list/search.php:83
+msgid "Sort by name - A to Z"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:232
+#: views/tour/list/search.php:84
+msgid "Sort by name - Z to A"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:233
+#: views/tour/list/search.php:85
+msgid "Sort by price - low to high"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_list/bt_bb_tour_list.php:234
+#: views/tour/list/search.php:86
+msgid "Sort by price - high to low"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:71
+msgid "Tour Search Form"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:73
+#: bold-page-builder/content_elements/bt_bb_tour_tag/bt_bb_tour_tag.php:67
+msgid "Label for Keyword"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:74
+msgid "Label for Destination"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:75
+msgid "Label for Departure Date"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:76
+msgid "Label for Price From"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:77
+msgid "Label for Price To"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:78
+msgid "Label for Search Button"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:79
+msgid "Show Keyword Filter"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:79
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:80
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:81
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:82
+msgid "Filters"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:80
+msgid "Show Departure Date Filter"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:81
+msgid "Show Prices Filter"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:82
+msgid "Show Categories Filter"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_search_form/bt_bb_tour_search_form.php:215
+#: views/tour/list/search.php:62
+msgid "Categories"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_single/bt_bb_tour_single.php:85
+#: php/before_framework.php:440
+msgid "Tour Single"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_single/bt_bb_tour_single.php:85
+msgid "Single Tour Presentation"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_single/bt_bb_tour_single.php:87
+msgid "Select Single Tour"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_tag/bt_bb_tour_tag.php:65
+msgid "Ribbon"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_tag/bt_bb_tour_tag.php:65
+msgid "Ribbon used for displaying Tour or Destination feature / discount."
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_tag/bt_bb_tour_tag.php:68
+msgid "Horizontal position"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_tag/bt_bb_tour_tag.php:76
+msgid "Top"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_tag/bt_bb_tour_tag.php:77
+msgid "Bottom"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_tag/bt_bb_tour_tag.php:82
+msgid "Accent"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_tour_tag/bt_bb_tour_tag.php:83
+msgid "Alternate"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_working_hours/bt_bb_working_hours.php:80
+#: bold-page-builder/content_elements/bt_bb_working_hours/bt_bb_working_hours.php:82
+msgid "Working Hours"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_working_hours/bt_bb_working_hours.php:80
+#: bold-page-builder/content_elements/bt_bb_working_hours/bt_bb_working_hours.php:82
+msgid ""
+"value;value;URL title,URL separated by new line (leave ; at the end to "
+"remove link)"
+msgstr ""
+
+#: framework/actions.php:78 framework/customization.php:436
+msgid "Sidebar"
+msgstr ""
+
+#: framework/actions.php:80
+msgid "Main sidebar"
+msgstr ""
+
+#: framework/amp.php:236 framework/amp.php:245
+msgctxt " font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/boldthemes_functions.php:640
+msgid "Newer Posts"
+msgstr ""
+
+#: framework/boldthemes_functions.php:641
+msgid "Older Posts"
+msgstr ""
+
+#: framework/boldthemes_functions.php:689
+msgid "Pingback:"
+msgstr ""
+
+#: framework/boldthemes_functions.php:689
+msgid "(Edit)"
+msgstr ""
+
+#: framework/boldthemes_functions.php:707
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/boldthemes_functions.php:709
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: framework/boldthemes_functions.php:710 views/author_reviews.php:18
+msgid "out of 5"
+msgstr ""
+
+#: framework/boldthemes_functions.php:717
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/boldthemes_functions.php:727
+msgid "Reply"
+msgstr ""
+
+#: framework/boldthemes_functions.php:730
+msgid "Edit"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1504 views/prev_next.php:21
+msgid "previous"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1505 views/prev_next.php:46
+msgid "next"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1627
+#: framework/boldthemes_functions.php:1631 php/before_framework.php:182
+#: php/before_framework.php:186
+msgid "Home"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1688 framework/woocommerce_hooks.php:156
+#: woocommerce/single-product/title.php:41
+msgid "N/A"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1689 framework/woocommerce_hooks.php:158
+#: woocommerce/single-product/title.php:42
+msgid "SKU:"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1704
+#: framework/boldthemes_functions.php:1706 framework/customization.php:167
+#: php/before_framework.php:247 php/before_framework.php:249
+msgid "Portfolio"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1732 php/before_framework.php:292
+msgid "Tag"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1738 php/before_framework.php:298
+msgid "Author"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1756 php/before_framework.php:316
+msgid "Search"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:381
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:391
+#: framework/class-tgm-plugin-activation.php:899
+#: framework/class-tgm-plugin-activation.php:2605
+#: framework/class-tgm-plugin-activation.php:3652
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:393
+#: framework/class-tgm-plugin-activation.php:3024
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:395
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:400
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:401
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:402
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:594
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:595
+msgid "Update Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1006
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1006
+#: framework/class-tgm-plugin-activation.php:1009
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1009
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1193
+#: framework/class-tgm-plugin-activation.php:3020
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2054
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2345
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2348
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2364
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2367
+msgid "External Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2370
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2387
+msgid "Not Installed"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2391
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2393
+msgid "Active"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2399
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2402
+msgid "Requires Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2405
+msgid "Update recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2414
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2460
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2464
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2468
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2472
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2554
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2562
+msgid "Installed version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2570
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2582
+msgid "Available version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2605
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2619
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2620
+msgid "Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2621
+msgid "Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2625
+msgid "Version"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2626
+msgid "Status"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2675
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2680
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2686
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2756
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2789
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2795
+msgid "Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2798
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2829
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2831
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2872
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2874
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2980
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3006
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3230
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3570
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3573
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3575
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3579
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3581
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3581
+#: framework/class-tgm-plugin-activation.php:3589
+msgid "Show Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3581
+#: framework/class-tgm-plugin-activation.php:3589
+msgid "Hide Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3582
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3584
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3587
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3590
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/config-meta-boxes.php:11 framework/config-meta-boxes.php:42
+#: framework/config-meta-boxes.php:136 framework/config-meta-boxes.php:190
+msgid "Settings"
+msgstr ""
+
+#: framework/config-meta-boxes.php:16 framework/config-meta-boxes.php:47
+msgid "Custom Primary Menu Name"
+msgstr ""
+
+#: framework/config-meta-boxes.php:25 framework/config-meta-boxes.php:55
+msgid "Custom Footer Menu Name"
+msgstr ""
+
+#: framework/config-meta-boxes.php:34 framework/config-meta-boxes.php:128
+#: framework/config-meta-boxes.php:182 framework/config-meta-boxes.php:195
+#: php/after_framework.php:2212
+msgid "Override Global Settings"
+msgstr ""
+
+#: framework/config-meta-boxes.php:63 framework/config-meta-boxes.php:141
+msgid "Images"
+msgstr ""
+
+#: framework/config-meta-boxes.php:71 framework/config-meta-boxes.php:149
+msgid "Grid Gallery"
+msgstr ""
+
+#: framework/config-meta-boxes.php:79 framework/config-meta-boxes.php:157
+msgid "Video"
+msgstr ""
+
+#: framework/config-meta-boxes.php:87 framework/config-meta-boxes.php:165
+msgid "Audio"
+msgstr ""
+
+#: framework/config-meta-boxes.php:95
+msgid "Link"
+msgstr ""
+
+#: framework/config-meta-boxes.php:103
+msgid "Link URL"
+msgstr ""
+
+#: framework/config-meta-boxes.php:111
+msgid "Quote"
+msgstr ""
+
+#: framework/config-meta-boxes.php:119
+msgid "Quote Author"
+msgstr ""
+
+#: framework/config-meta-boxes.php:173
+msgid "Custom Fields"
+msgstr ""
+
+#: framework/customization.php:115 php/before_framework.php:1076
+msgid "Reset theme settings to default values?"
+msgstr ""
+
+#: framework/customization.php:150 php/before_framework.php:420
+msgid "General Settings"
+msgstr ""
+
+#: framework/customization.php:154 php/before_framework.php:424
+msgid "Header and Footer"
+msgstr ""
+
+#: framework/customization.php:158 php/before_framework.php:428
+msgid "Typography"
+msgstr ""
+
+#: framework/customization.php:159
+msgid ""
+"Set the font family applied throughout the website. Theme uses Google "
+"webfonts."
+msgstr ""
+
+#: framework/customization.php:163 php/before_framework.php:432
+msgid "Blog"
+msgstr ""
+
+#: framework/customization.php:171 php/before_framework.php:460
+msgid "Shop"
+msgstr ""
+
+#: framework/customization.php:196
+msgid "Logo"
+msgstr ""
+
+#: framework/customization.php:197
+msgid ""
+"Main website logo, displayed in the header area, on Preloader screen and on "
+"Sticky Header. Logo size should match height defined in Header and Footer > "
+"Logo Height (in px)."
+msgstr ""
+
+#: framework/customization.php:219
+msgid "Alternate Sticky Header Logo"
+msgstr ""
+
+#: framework/customization.php:220
+msgid ""
+"If defined, used on top of the page when Content Below Menu and Sticky "
+"Header options are activated."
+msgstr ""
+
+#: framework/customization.php:242
+msgid "Primary Accent Color"
+msgstr ""
+
+#: framework/customization.php:264
+msgid "Secondary Accent Color"
+msgstr ""
+
+#: framework/customization.php:286
+msgid "Page Background"
+msgstr ""
+
+#: framework/customization.php:287
+msgid ""
+"Set static image as a site background. Minimum recommended size: 1920x1080px"
+msgstr ""
+
+#: framework/customization.php:309
+msgid "Page Width"
+msgstr ""
+
+#: framework/customization.php:316
+msgid "Boxed"
+msgstr ""
+
+#: framework/customization.php:334 php/before_framework.php:346
+msgid "Header Style"
+msgstr ""
+
+#: framework/customization.php:335
+msgid "Select header style for all the pages with default header turned on."
+msgstr ""
+
+#: framework/customization.php:341 php/before_framework.php:352
+msgid "Transparent Light"
+msgstr ""
+
+#: framework/customization.php:342 php/before_framework.php:353
+msgid "Transparent Dark"
+msgstr ""
+
+#: framework/customization.php:343 php/before_framework.php:354
+msgid "Accent + Dark"
+msgstr ""
+
+#: framework/customization.php:344 php/before_framework.php:355
+msgid "Light + Accent "
+msgstr ""
+
+#: framework/customization.php:345 php/before_framework.php:356
+msgid "Accent + Light"
+msgstr ""
+
+#: framework/customization.php:346 php/before_framework.php:357
+msgid "Light + Dark"
+msgstr ""
+
+#: framework/customization.php:347
+msgid "Hidden"
+msgstr ""
+
+#: framework/customization.php:366
+msgid "Hide Default Headline"
+msgstr ""
+
+#: framework/customization.php:388
+msgid "Default Headline Supertitle Outside of H Tag"
+msgstr ""
+
+#: framework/customization.php:410
+msgid "Template skin"
+msgstr ""
+
+#: framework/customization.php:416
+msgid "Light"
+msgstr ""
+
+#: framework/customization.php:417
+msgid "Dark"
+msgstr ""
+
+#: framework/customization.php:442
+msgid "No Sidebar"
+msgstr ""
+
+#: framework/customization.php:463
+msgid "Use Dash in Template Headlines"
+msgstr ""
+
+#: framework/customization.php:485
+msgid "Disable Preloader"
+msgstr ""
+
+#: framework/customization.php:507
+msgid "Preloader Text"
+msgstr ""
+
+#: framework/customization.php:528
+msgid "Reset Theme Settings"
+msgstr ""
+
+#: framework/customization.php:551
+msgid "Logo Height (in px)"
+msgstr ""
+
+#: framework/customization.php:552
+msgid ""
+"Define the logo height by setting it’s size in pixels (without px unit)."
+msgstr ""
+
+#: framework/customization.php:574
+msgid "Menu Type"
+msgstr ""
+
+#: framework/customization.php:575
+msgid ""
+"Set the menu layout for all the pages on the site. Menu can be horizontal, "
+"in line with logo or below logo, or vertical, on left or right."
+msgstr ""
+
+#: framework/customization.php:581
+msgid "Horizontal Left"
+msgstr ""
+
+#: framework/customization.php:582
+msgid "Horizontal Centered"
+msgstr ""
+
+#: framework/customization.php:583
+msgid "Horizontal Right"
+msgstr ""
+
+#: framework/customization.php:584
+msgid "Horizontal Left Below Logo"
+msgstr ""
+
+#: framework/customization.php:585
+msgid "Horizontal Center Below Logo"
+msgstr ""
+
+#: framework/customization.php:586
+msgid "Horizontal Right Below Logo"
+msgstr ""
+
+#: framework/customization.php:587
+msgid "Vertical Left"
+msgstr ""
+
+#: framework/customization.php:588
+msgid "Vertical Right"
+msgstr ""
+
+#: framework/customization.php:607
+msgid "Boxed Menu"
+msgstr ""
+
+#: framework/customization.php:629
+msgid "Show Content Below Menu"
+msgstr ""
+
+#: framework/customization.php:651
+msgid "Use Sticky Header"
+msgstr ""
+
+#: framework/customization.php:673
+msgid "Hide Menu on Load"
+msgstr ""
+
+#: framework/customization.php:695
+msgid "Use Dark Skin in Footer"
+msgstr ""
+
+#: framework/customization.php:717
+msgid "Custom Footer Text"
+msgstr ""
+
+#: framework/customization.php:718
+msgid "Enter any text shown in footer (e.g. Copyright notice)."
+msgstr ""
+
+#: framework/customization.php:740
+msgid "Footer Page"
+msgstr ""
+
+#: framework/customization.php:741
+msgid ""
+"Use static page with content as a footer template for all pages. Select the "
+"page that serves as a template for footer."
+msgstr ""
+
+#: framework/customization.php:766
+msgid "Body Font"
+msgstr ""
+
+#: framework/customization.php:789
+msgid "Heading Font"
+msgstr ""
+
+#: framework/customization.php:812
+msgid "Heading Supertitle Font"
+msgstr ""
+
+#: framework/customization.php:835
+msgid "Heading Subtitle Font"
+msgstr ""
+
+#: framework/customization.php:858
+msgid "Menu Font"
+msgstr ""
+
+#: framework/customization.php:881
+msgid "Buttons Shape"
+msgstr ""
+
+#: framework/customization.php:887
+msgid "Hard Rounded"
+msgstr ""
+
+#: framework/customization.php:888
+msgid "Soft Rounded"
+msgstr ""
+
+#: framework/customization.php:910 framework/customization.php:1160
+msgid "Grid Gallery Columns"
+msgstr ""
+
+#: framework/customization.php:911
+msgid ""
+"Define number of columns in grid gallery. Works only for Gallery post format."
+msgstr ""
+
+#: framework/customization.php:940 framework/customization.php:1190
+msgid "Grid Gallery Gap"
+msgstr ""
+
+#: framework/customization.php:941
+msgid "Define the gap between grid gallery items."
+msgstr ""
+
+#: framework/customization.php:969 framework/customization.php:1246
+#: php/after_framework.php:258
+msgid "Archive Layout"
+msgstr ""
+
+#: framework/customization.php:970
+msgid ""
+"Set the layouts for blog archive pages - main Blog page, Archive, Category "
+"and Tag pages."
+msgstr ""
+
+#: framework/customization.php:976 framework/customization.php:1004
+#: framework/customization.php:1226 framework/customization.php:1253
+#: php/after_framework.php:265 php/after_framework.php:292
+#: php/after_framework.php:346
+msgid "Standard"
+msgstr ""
+
+#: framework/customization.php:978
+msgid "Simple"
+msgstr ""
+
+#: framework/customization.php:997
+msgid "Single Post Layout"
+msgstr ""
+
+#: framework/customization.php:998
+msgid ""
+"Single post layout - one column or two columns (for media box and the "
+"content)."
+msgstr ""
+
+#: framework/customization.php:1024
+msgid "Show Author Name"
+msgstr ""
+
+#: framework/customization.php:1046
+msgid "Show Post Date"
+msgstr ""
+
+#: framework/customization.php:1068
+msgid "Show Author Avatar in Post List"
+msgstr ""
+
+#: framework/customization.php:1090
+msgid "Show Author Info in Single Post"
+msgstr ""
+
+#: framework/customization.php:1112 framework/customization.php:1273
+#: framework/customization.php:1367
+msgid "Use Dash in Headlines"
+msgstr ""
+
+#: framework/customization.php:1134 framework/customization.php:1295
+#: framework/customization.php:1389
+msgid "Settings Page"
+msgstr ""
+
+#: framework/customization.php:1135
+msgid ""
+"Use static page with content as a template for all single posts. Select the "
+"page which serves as a template."
+msgstr ""
+
+#: framework/customization.php:1161
+msgid "Define the number of columns for grid gallery on portfolio items."
+msgstr ""
+
+#: framework/customization.php:1191
+msgid "Define the gap between grid gallery items in pixels."
+msgstr ""
+
+#: framework/customization.php:1219
+msgid "Single project view"
+msgstr ""
+
+#: framework/customization.php:1220
+msgid ""
+"Define layout for all single portfolio items pages - one column or two "
+"columns."
+msgstr ""
+
+#: framework/customization.php:1247
+msgid ""
+"Set the layout of the main Portfolio page, Archive, Category, and Tag pages."
+msgstr ""
+
+#: framework/customization.php:1296
+msgid ""
+"Use this page to create template for the single portfolio post. For "
+"portfolio list create page with slug 'portfolio'."
+msgstr ""
+
+#: framework/customization.php:1319
+msgid "Portfolio Slug"
+msgstr ""
+
+#: framework/customization.php:1320
+msgid ""
+"This value will be used to generate urls for Portfolio custom post type. To "
+"apply changes, go to Settings > Permalinks and click Save Changes"
+msgstr ""
+
+#: framework/customization.php:1342
+msgid "Portfolio Category Slug"
+msgstr ""
+
+#: framework/customization.php:1343
+msgid ""
+"This value will be used to generate urls for Portfolio category custom post "
+"type. To apply changes, go to Settings > Permalinks and click Save Changes"
+msgstr ""
+
+#: framework/customization.php:1390
+msgid ""
+"Select a page with content which serves as a template for all single product "
+"pages."
+msgstr ""
+
+#: framework/filters.php:61
+msgid "Looking for..."
+msgstr ""
+
+#: framework/web_fonts.php:10
+msgid "(custom font)"
+msgstr ""
+
+#: framework/web_fonts.php:15
+msgid "No Change"
+msgstr ""
+
+#: framework/woocommerce_hooks.php:93 woocommerce/cart/mini-cart.php:31
+msgid "View your shopping cart"
+msgstr ""
+
+#: framework/editor-buttons/editor-lang.php:5
+msgid "Drop Cap"
+msgstr ""
+
+#: framework/editor-buttons/editor-lang.php:6
+msgid "Highlight"
+msgstr ""
+
+#: php/after_framework.php:135
+msgid "Heading Style"
+msgstr ""
+
+#: php/after_framework.php:142
+msgid "Compact (small line height + bold)"
+msgstr ""
+
+#: php/after_framework.php:160
+msgid ""
+"Reverse Gradient on chosen Elements (heading underlines, backgrounds, menu "
+"underlines, etc)"
+msgstr ""
+
+#: php/after_framework.php:182
+msgid "Opacity for header gradient"
+msgstr ""
+
+#: php/after_framework.php:186
+msgid ""
+"Choose a percent of visibility for underline gradients used on headlines."
+msgstr ""
+
+#: php/after_framework.php:189 php/after_framework.php:225
+msgid "100%"
+msgstr ""
+
+#: php/after_framework.php:190 php/after_framework.php:226
+msgid "90%"
+msgstr ""
+
+#: php/after_framework.php:191 php/after_framework.php:227
+msgid "80%"
+msgstr ""
+
+#: php/after_framework.php:192 php/after_framework.php:228
+msgid "70%"
+msgstr ""
+
+#: php/after_framework.php:193 php/after_framework.php:229
+msgid "60%"
+msgstr ""
+
+#: php/after_framework.php:194 php/after_framework.php:230
+msgid "50%"
+msgstr ""
+
+#: php/after_framework.php:195 php/after_framework.php:231
+msgid "40%"
+msgstr ""
+
+#: php/after_framework.php:196 php/after_framework.php:232
+msgid "30%"
+msgstr ""
+
+#: php/after_framework.php:197 php/after_framework.php:233
+msgid "20%"
+msgstr ""
+
+#: php/after_framework.php:198 php/after_framework.php:234
+msgid "10%"
+msgstr ""
+
+#: php/after_framework.php:199 php/after_framework.php:235
+msgid "0%"
+msgstr ""
+
+#: php/after_framework.php:218
+msgid "Opacity for default page headline gradient"
+msgstr ""
+
+#: php/after_framework.php:222
+msgid ""
+"Choose a percent of visibility for gradients that are shown in the default "
+"page headline, covering the featured image."
+msgstr ""
+
+#: php/after_framework.php:262
+msgid ""
+"Choose a view type for Tour Archive Layout, used for list by category, "
+"destination or by tag."
+msgstr ""
+
+#: php/after_framework.php:285
+msgid "Tour Search Type"
+msgstr ""
+
+#: php/after_framework.php:289
+msgid ""
+"Set preferred Search type - standard search with page reload on each click, "
+"or ajax without page reload."
+msgstr ""
+
+#: php/after_framework.php:293
+msgid "Ajax"
+msgstr ""
+
+#: php/after_framework.php:312
+msgid "Tour Search Pagination"
+msgstr ""
+
+#: php/after_framework.php:316
+msgid ""
+"Set pagination type - standard pagination with page numbers and previous / "
+"next links, or with ajax Load more button."
+msgstr ""
+
+#: php/after_framework.php:319
+msgid "Load More"
+msgstr ""
+
+#: php/after_framework.php:320
+msgid "Standard Pages"
+msgstr ""
+
+#: php/after_framework.php:339
+msgid "Single Tour Header Layout"
+msgstr ""
+
+#: php/after_framework.php:343
+msgid ""
+"Use a standard headline behaviour for a Tour page (as for blog posts or page "
+"headlines), or the one based on the content you insert in it - featured "
+"image, image slider, video or both."
+msgstr ""
+
+#: php/after_framework.php:347
+msgid "Based on the Content"
+msgstr ""
+
+#: php/after_framework.php:366
+msgid "Tour Similar List Columns"
+msgstr ""
+
+#: php/after_framework.php:370
+msgid "Select a number of Columns used for Similar Tours Tab."
+msgstr ""
+
+#: php/after_framework.php:394
+msgid "Tour Similar List Gap"
+msgstr ""
+
+#: php/after_framework.php:398
+msgid "Set a gap between each Tours on the Tour Similar Tab."
+msgstr ""
+
+#: php/after_framework.php:423
+msgid "Number of Similar Tours"
+msgstr ""
+
+#: php/after_framework.php:427
+msgid ""
+"Set a maximum number of Tours to Show in Similar Tours Tab on a Single Tour."
+msgstr ""
+
+#: php/after_framework.php:447
+msgid "Show Similar Tours By"
+msgstr ""
+
+#: php/after_framework.php:451
+msgid "Set by which criteria to show Similar Tours on the single tour."
+msgstr ""
+
+#: php/after_framework.php:474
+msgid "Similar Tours Type"
+msgstr ""
+
+#: php/after_framework.php:478
+msgid ""
+"Set how a Similar Tours will look on Similar Tours tab on a Single Tour."
+msgstr ""
+
+#: php/after_framework.php:503
+msgid "Tour Gallery Grid Columns"
+msgstr ""
+
+#: php/after_framework.php:507
+msgid "Select a number of columns used for Gallery tab on a Single Tour."
+msgstr ""
+
+#: php/after_framework.php:533
+msgid "Tour Gallery Grid  Gap"
+msgstr ""
+
+#: php/after_framework.php:537
+msgid "Set a gap for the grid on the Gallery tab on a Single Tour."
+msgstr ""
+
+#: php/after_framework.php:562
+msgid "Show Categories on Search Form"
+msgstr ""
+
+#: php/after_framework.php:586 php/after_framework.php:608
+msgid ""
+"Show just Months and Years instead of full Calendar across Tour Search Forms"
+msgstr ""
+
+#: php/after_framework.php:630
+msgid ""
+"Open tour single view in new window from search tour lists and widget tour "
+"lists"
+msgstr ""
+
+#: php/after_framework.php:652
+msgid ""
+"Show Author Review Summary for a Single Tour (includes the Tour Grade, "
+"single percentages and Author Review Summary)"
+msgstr ""
+
+#: php/after_framework.php:675
+msgid "Days to Search before and after the Date User selected"
+msgstr ""
+
+#: php/after_framework.php:679
+msgid ""
+"Set a number of days that will create a more flexible interval when user "
+"selects a precise date of the tour. Ex. If user selects 15th June, and "
+"you've set a parameter to 5, the search will include all tours between 10th "
+"and 20th June."
+msgstr ""
+
+#: php/after_framework.php:704
+msgid "Default Number of Tours on Search Page"
+msgstr ""
+
+#: php/after_framework.php:708
+msgid ""
+"Set a default number of Tours to show per page in Tour Search. This is also "
+"the number of tours that will show up each time when Load More Button is "
+"clicked."
+msgstr ""
+
+#: php/after_framework.php:728
+msgid "Tour look and feel on Search"
+msgstr ""
+
+#: php/after_framework.php:732
+msgid ""
+"Set how a single Tour will look on Tour Search. List is always full width "
+"with one column, most informative. Regular is with the right amount of "
+"information. Gallery has a portrait image and price, whilst Tiles has Tour "
+"title, image and price. This design will also be used for Similar Tours tab "
+"on a Single Tour."
+msgstr ""
+
+#: php/after_framework.php:757
+msgid "Tour List Gap"
+msgstr ""
+
+#: php/after_framework.php:761
+msgid "Set a gap between each Tours on the Tour Search list."
+msgstr ""
+
+#: php/after_framework.php:786
+msgid "Tour List Columns"
+msgstr ""
+
+#: php/after_framework.php:790
+msgid "Select a number of Columns used for Tours on Tour Search list."
+msgstr ""
+
+#: php/after_framework.php:815
+msgid "Tour Default Image"
+msgstr ""
+
+#: php/after_framework.php:818
+msgid ""
+"Set a default image used when a tour doesn't have a featured image. Used "
+"only for Tour Search and shortcodes."
+msgstr ""
+
+#: php/after_framework.php:840
+msgid "Currency across site"
+msgstr ""
+
+#: php/after_framework.php:843
+msgid ""
+"Set a currency symbol that you'll use for a Tour Price on Tour Search and "
+"Single Tour."
+msgstr ""
+
+#: php/after_framework.php:863
+msgid "Show Currency before Price (otherwise it will show after Price)"
+msgstr ""
+
+#: php/after_framework.php:885
+msgid "Enable Ratings in Comments and Reviews for all Tours"
+msgstr ""
+
+#: php/after_framework.php:908
+msgid "Open Other Times on the Tour Single Page"
+msgstr ""
+
+#: php/after_framework.php:930
+msgid "Enable Tour Sharing on Facebook"
+msgstr ""
+
+#: php/after_framework.php:952
+msgid "Enable Tour Sharing on Twitter"
+msgstr ""
+
+#: php/after_framework.php:974
+msgid "Enable Tour Sharing on LinkedIn"
+msgstr ""
+
+#: php/after_framework.php:1018
+msgid "Enable Tour Sharing on VKontakte"
+msgstr ""
+
+#: php/after_framework.php:1040
+msgid "Enable Tour Sharing on WhatsApp"
+msgstr ""
+
+#: php/after_framework.php:1061
+msgid "Tour User Review Categories"
+msgstr ""
+
+#: php/after_framework.php:1064
+msgid ""
+"Set on what Users can rate in the comments for all Tours, separate them with "
+"\";\". This can be overriden in a Single Tour."
+msgstr ""
+
+#: php/after_framework.php:1083 php/before_framework.php:1096
+msgid "Settings Page Slug"
+msgstr ""
+
+#: php/after_framework.php:1086
+msgid ""
+"Choose a single page that you will use to show your single page. This is "
+"required if you would like to customize your page furthermore with it's "
+"settings. It works across all settings used in the theme."
+msgstr ""
+
+#: php/after_framework.php:1106
+msgid "Tour Slug"
+msgstr ""
+
+#: php/after_framework.php:1107
+msgid ""
+"This value will be used to generate URLs for your Tour custom post type. To "
+"apply changes, go to Settings > Permalinks and click Save Changes."
+msgstr ""
+
+#: php/after_framework.php:1129
+msgid "Tour Category Slug"
+msgstr ""
+
+#: php/after_framework.php:1130
+msgid ""
+"This value will be used to generate urls for Tour category custom post type. "
+"To apply changes, go to Settings > Permalinks and click Save Changes"
+msgstr ""
+
+#: php/after_framework.php:1152
+msgid ""
+"Enable Booking & Enquiry Forms - disabling will remove Book This Tour button "
+"on all Single Tour pages."
+msgstr ""
+
+#: php/after_framework.php:1186
+msgid "Tour Booking Form"
+msgstr ""
+
+#: php/after_framework.php:1190
+msgid ""
+"Choose a form you created in Contact Form 7 plugin you would like to use for "
+"Booking form. If no form is selected or created it will disable it. Please "
+"note that forms defined in Contact > Contact Forms must contain two hidden "
+"parameters - [tour tour-id id:booking-tour-id] and [tour_title tour-title id:"
+"booking-tour-title]\n"
+" in order for mail to be informative for you."
+msgstr ""
+
+#: php/after_framework.php:1211
+msgid "Enable Booking Form on Single Tour page"
+msgstr ""
+
+#: php/after_framework.php:1245
+msgid "Tour Enquiry Form"
+msgstr ""
+
+#: php/after_framework.php:1249
+msgid ""
+"Choose a form you created in Contact Form 7 plugin you would like to use for "
+"Enquiry form. If no form is selected or created it will disable it. Please "
+"note that forms defined in Contact > Contact Forms must contain two hidden "
+"parameters - [tour tour-id id:enquiry-tour-id] and [tour_title tour-title id:"
+"enquiry-tour-title]\n"
+" in order for mail to be informative for you."
+msgstr ""
+
+#: php/after_framework.php:1270
+msgid "Enable Enquiry Form on Single Tour page"
+msgstr ""
+
+#: php/after_framework.php:1296
+msgid "Choose Map Type in the Frontend"
+msgstr ""
+
+#: php/after_framework.php:1299
+msgid ""
+"Select the type of map in the Frontend. Google type displays Google Map with "
+"integrated pins, while OpenStreetMap type diplays OSM Map with integrated "
+"pins."
+msgstr ""
+
+#: php/after_framework.php:1303
+msgid "Google Map"
+msgstr ""
+
+#: php/after_framework.php:1304
+msgid "OpenStreetMap"
+msgstr ""
+
+#: php/after_framework.php:1323
+msgid "Google Map Api Key"
+msgstr ""
+
+#: php/after_framework.php:1327
+msgid ""
+"Please set your own google map API key for your site. Get your API key at "
+"Google Maps Developer site, at http://developers.google.com."
+msgstr ""
+
+#: php/after_framework.php:1346
+msgid "Google Map Default Zoom Level"
+msgstr ""
+
+#: php/after_framework.php:1350
+msgid ""
+"Default zoom level will be used when there's one location, if there's more "
+"then one map will show them all at once. It varies from 0 - zoomed out max, "
+"to 18 - zoomed in max."
+msgstr ""
+
+#: php/after_framework.php:1369
+msgid "Google Map Default Latitude Value"
+msgstr ""
+
+#: php/after_framework.php:1373
+msgid ""
+"This is the default Latitude value for your map, when you're adding Tour "
+"Destinations."
+msgstr ""
+
+#: php/after_framework.php:1392
+msgid "Google Map Default Longitude Value"
+msgstr ""
+
+#: php/after_framework.php:1396
+msgid ""
+"This is the default Longitude value for your map, when you're adding Tour "
+"Destinations."
+msgstr ""
+
+#: php/after_framework.php:1415
+msgid "Goggle Map Pin Destination"
+msgstr ""
+
+#: php/after_framework.php:1419
+msgid "Set a custom image for a map pin that will be used on a Tour Map."
+msgstr ""
+
+#: php/after_framework.php:1438
+msgid "Custom Map Style Array"
+msgstr ""
+
+#: php/after_framework.php:1441
+msgid ""
+"Set a custom map style by using a custom map style array, find more custom "
+"styles at "
+msgstr ""
+
+#: php/after_framework.php:1445
+msgid "snazzymaps.com"
+msgstr ""
+
+#: php/after_framework.php:1466
+msgid "Information Tab Title"
+msgstr ""
+
+#: php/after_framework.php:1470 php/after_framework.php:1517
+#: php/after_framework.php:1616 php/after_framework.php:1715
+#: php/after_framework.php:1814 php/after_framework.php:1913
+#: php/after_framework.php:2012 php/after_framework.php:2111
+msgid ""
+"You can rename this tab here by changing it's name. If you're having "
+"multilanguage site, preferred option would be to translate this tab."
+msgstr ""
+
+#: php/after_framework.php:1472 php/before_framework.php:1196
+msgid "Information"
+msgstr ""
+
+#: php/after_framework.php:1491
+msgid "Tour Plan Tab"
+msgstr ""
+
+#: php/after_framework.php:1513 php/after_framework.php:1612
+#: php/after_framework.php:1711
+msgid "Title"
+msgstr ""
+
+#: php/after_framework.php:1519 php/before_framework.php:1198
+msgid "Tour Plan"
+msgstr ""
+
+#: php/after_framework.php:1538 php/after_framework.php:1637
+#: php/after_framework.php:1736 php/after_framework.php:1835
+#: php/after_framework.php:1934 php/after_framework.php:2033
+#: php/after_framework.php:2132
+msgid "Hide this Tab on all Single Tour pages."
+msgstr ""
+
+#: php/after_framework.php:1559 php/after_framework.php:1658
+#: php/after_framework.php:1757 php/after_framework.php:1856
+#: php/after_framework.php:1955 php/after_framework.php:2054
+#: php/after_framework.php:2153
+msgid "Tab Order"
+msgstr ""
+
+#: php/after_framework.php:1563 php/after_framework.php:1661
+#: php/after_framework.php:1761 php/after_framework.php:1860
+#: php/after_framework.php:1959 php/after_framework.php:2058
+#: php/after_framework.php:2157
+msgid "Select value from 1-7 for tab sorting (1 - first, 7 - last)."
+msgstr ""
+
+#: php/after_framework.php:1572 php/after_framework.php:1671
+#: php/after_framework.php:1770 php/after_framework.php:1869
+#: php/after_framework.php:1968 php/after_framework.php:2067
+#: php/after_framework.php:2166
+msgid "7"
+msgstr ""
+
+#: php/after_framework.php:1590
+msgid "Location Tab"
+msgstr ""
+
+#: php/after_framework.php:1618 php/before_framework.php:1200
+msgid "Location"
+msgstr ""
+
+#: php/after_framework.php:1689
+msgid "Gallery Tab"
+msgstr ""
+
+#: php/after_framework.php:1788
+msgid "Reviews Tab"
+msgstr ""
+
+#: php/after_framework.php:1810
+msgid "Reviews Tab Title"
+msgstr ""
+
+#: php/after_framework.php:1816 php/before_framework.php:1204
+#: woocommerce/single-product-reviews.php:41
+msgid "Reviews"
+msgstr ""
+
+#: php/after_framework.php:1887
+msgid "Additional Info Tab"
+msgstr ""
+
+#: php/after_framework.php:1909
+msgid "Additional Info Tab Title"
+msgstr ""
+
+#: php/after_framework.php:1915 php/before_framework.php:1206
+msgid "Additional Info"
+msgstr ""
+
+#: php/after_framework.php:1986
+msgid "Similar Tours Tab"
+msgstr ""
+
+#: php/after_framework.php:2008
+msgid "Similar Tours Tab Title"
+msgstr ""
+
+#: php/after_framework.php:2014 php/before_framework.php:1208
+msgid "Similar Tours"
+msgstr ""
+
+#: php/after_framework.php:2085
+msgid "Custom Tab"
+msgstr ""
+
+#: php/after_framework.php:2107
+msgid "Custom Tab Title"
+msgstr ""
+
+#: php/after_framework.php:2113
+msgid "Custom"
+msgstr ""
+
+#: php/after_framework.php:2185
+msgid "Choose OSM Map Style"
+msgstr ""
+
+#: php/after_framework.php:2189
+msgid "Set a OSM Map Style by choosing one of the predefined ones."
+msgstr ""
+
+#: php/after_framework.php:2207
+msgid "Override Settings"
+msgstr ""
+
+#: php/before_framework.php:358
+msgid "Accent + Light with Gradient"
+msgstr ""
+
+#: php/before_framework.php:359
+msgid "Alternate + Light with Gradient"
+msgstr ""
+
+#: php/before_framework.php:436
+msgid "Destinations"
+msgstr ""
+
+#: php/before_framework.php:444
+msgid "Tour Single Tabs"
+msgstr ""
+
+#: php/before_framework.php:448
+msgid "Tour Search"
+msgstr ""
+
+#: php/before_framework.php:452
+msgid "Tour Booking"
+msgstr ""
+
+#: php/before_framework.php:456
+msgid "Tour Map"
+msgstr ""
+
+#: php/before_framework.php:1076
+msgid "Reset"
+msgstr ""
+
+#: php/before_framework.php:1097
+msgid ""
+"Use this page to create template for the single destination post. For "
+"destination list create page with slug 'destination'."
+msgstr ""
+
+#: php/before_framework.php:1119
+msgid "Destination Slug"
+msgstr ""
+
+#: php/before_framework.php:1120
+msgid ""
+"This value will be used to generate urls for Destination custom post type. "
+"To apply changes, go to Settings > Permalinks and click Save Changes"
+msgstr ""
+
+#: php/before_framework.php:1142
+msgid "Destination Category Slug"
+msgstr ""
+
+#: php/before_framework.php:1143
+msgid ""
+"This value will be used to generate urls for Destination category custom "
+"post type. To apply changes, go to Settings > Permalinks and click Save "
+"Changes"
+msgstr ""
+
+#: php/before_framework.php:1217
+msgid "More Information"
+msgstr ""
+
+#: php/before_framework.php:1315 views/forms.php:73
+#: views/tour/single/standard.php:71
+msgid "Book this Tour"
+msgstr ""
+
+#: php/before_framework.php:1317 views/forms.php:76
+msgid "Enquiry about the Tour"
+msgstr ""
+
+#: php/before_framework.php:1319 views/forms.php:95
+msgid "Sorry! There are no enabled booking or enquiry forms."
+msgstr ""
+
+#: php/style.php:3
+msgid "Previous"
+msgstr ""
+
+#: php/style.php:4
+msgid "Next"
+msgstr ""
+
+#: views/author_reviews.php:12
+msgid "Travelicious Review"
+msgstr ""
+
+#: views/author_reviews.php:41
+msgid "Summary"
+msgstr ""
+
+#: views/forms.php:37
+msgid "Price"
+msgstr ""
+
+#: views/forms.php:38
+msgid "per"
+msgstr ""
+
+#: views/forms.php:38
+msgid "person"
+msgstr ""
+
+#: views/forms.php:46
+msgid "Duration"
+msgstr ""
+
+#: views/forms.php:64
+msgid "Travellers"
+msgstr ""
+
+#: views/portfolio/list/standard.php:42 views/post/list/standard.php:81
+msgid "Continue reading"
+msgstr ""
+
+#: views/portfolio/single/columns.php:48
+#: views/portfolio/single/standard.php:39 views/post/single/columns.php:39
+#: views/post/single/standard.php:49 views/tour/single/standard.php:58
+msgid "Share on social networks"
+msgstr ""
+
+#: views/tour/list/search.php:27 views/tour/list/search.php:29
+msgid "Tour Keywords"
+msgstr ""
+
+#: views/tour/list/search.php:33 views/tour/list/search.php:36
+msgid "Select your Destination"
+msgstr ""
+
+#: views/tour/list/search.php:41 views/tour/list/search.php:44
+msgid "Departure Date"
+msgstr ""
+
+#: views/tour/list/search.php:48 views/tour/list/search.php:49
+msgid "Price From"
+msgstr ""
+
+#: views/tour/list/search.php:52 views/tour/list/search.php:53
+msgid "Price To"
+msgstr ""
+
+#: views/tour/list/search.php:56
+msgid "Find Your Tour"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:28
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:39
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:106
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:115
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:94
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:102
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:107
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:108
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+msgid "quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:31
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:32
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:14
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:17
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""

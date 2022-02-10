@@ -1,0 +1,1078 @@
+# Translation of
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2020-03-17 12:49+0100\n"
+"PO-Revision-Date: 2020-03-17 12:21+0000\n"
+"Last-Translator: BoldThemes <info@bold-themes.com>\n"
+"Language-Team: Српски језик\n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: travelicious.php:54
+msgid "Day"
+msgstr ""
+
+#: travelicious.php:55
+msgid "Month"
+msgstr ""
+
+#: travelicious.php:56
+msgid "Year"
+msgstr ""
+
+#: travelicious.php:75
+msgid "Header Left Widgets"
+msgstr ""
+
+#: travelicious.php:81
+msgid "Header Right Widgets"
+msgstr ""
+
+#: travelicious.php:87
+msgid "Header Menu Widgets"
+msgstr ""
+
+#: travelicious.php:93
+msgid "Header Logo Widgets"
+msgstr ""
+
+#: travelicious.php:99
+msgid "Footer Widgets"
+msgstr ""
+
+#: travelicious.php:114 travelicious.php:116
+msgid "Destinations"
+msgstr "Destinacije"
+
+#: travelicious.php:115
+msgid "Destination Item"
+msgstr ""
+
+#: travelicious.php:117 amp/amp.php:61 amp/amp.php:158
+#: inc/tour_html/single/tour.php:34 inc/tour_html/single/tour.php:156
+msgid "Destination"
+msgstr ""
+
+#: travelicious.php:118 travelicious.php:119
+msgid "Add New Destination"
+msgstr "Dodaj novu destinaciju"
+
+#: travelicious.php:120
+msgid "New Destination"
+msgstr ""
+
+#: travelicious.php:121
+msgid "Edit Destination"
+msgstr ""
+
+#: travelicious.php:122
+msgid "View Destination"
+msgstr ""
+
+#: travelicious.php:123
+msgid "All Destinations"
+msgstr "Sve destinacije"
+
+#: travelicious.php:124
+msgid "Search Destinations"
+msgstr ""
+
+#: travelicious.php:125
+msgid "Parent Destinations:"
+msgstr ""
+
+#: travelicious.php:126
+msgid "No destinations found."
+msgstr ""
+
+#: travelicious.php:127
+msgid "No destinations found in Trash."
+msgstr ""
+
+#: travelicious.php:140
+msgid "Destination Categories"
+msgstr "Destinacije kategorije"
+
+#: travelicious.php:150 travelicious.php:152
+msgid "Tours"
+msgstr "Ture"
+
+#: travelicious.php:151
+msgid "Tour Item"
+msgstr "Tura"
+
+#: travelicious.php:153
+msgid "Tour"
+msgstr "Tura"
+
+#: travelicious.php:154 travelicious.php:155
+msgid "Add New Tour"
+msgstr "Dodaj novu turu"
+
+#: travelicious.php:156
+msgid "New Tour"
+msgstr "Nova tura"
+
+#: travelicious.php:157
+msgid "Edit Tour"
+msgstr "Izmena ture"
+
+#: travelicious.php:158
+msgid "View Tour"
+msgstr "Vidi turu"
+
+#: travelicious.php:159
+msgid "All Tours"
+msgstr "Sve ture"
+
+#: travelicious.php:160
+msgid "Search Tours"
+msgstr ""
+
+#: travelicious.php:161
+msgid "Parent Tours:"
+msgstr ""
+
+#: travelicious.php:162
+msgid "No tours found."
+msgstr ""
+
+#: travelicious.php:163
+msgid "No tours found in Trash."
+msgstr ""
+
+#: travelicious.php:176
+msgid "Tour Categories"
+msgstr "Kategorije tura"
+
+#: travelicious.php:177
+msgid "Tour Destinations"
+msgstr "Destinacije tura"
+
+#: travelicious.php:178
+msgid "Tour Includes"
+msgstr ""
+
+#: travelicious.php:179
+msgid "Tour Tags"
+msgstr "Tagovi tura"
+
+#: travelicious.php:179
+msgid "Tag"
+msgstr ""
+
+#: travelicious.php:256
+msgid "More than 1"
+msgstr ""
+
+#: travelicious.php:303
+msgid "Not specified yet"
+msgstr ""
+
+#: travelicious.php:327
+msgid "Everyday "
+msgstr ""
+
+#: travelicious.php:331
+msgid "Everyday at"
+msgstr ""
+
+#: travelicious.php:1000
+msgid "Newer Posts"
+msgstr ""
+
+#: travelicious.php:1001
+msgid "Older Posts"
+msgstr ""
+
+#: travelicious.php:1223
+msgid "Select Tour Date"
+msgstr ""
+
+#: amp/amp.php:43 inc/tour-meta-boxes.php:357 inc/tour_html/single/tour.php:16
+msgid "Price"
+msgstr ""
+
+#: amp/amp.php:44 inc/tour_html/single/tour.php:17
+msgid "per"
+msgstr ""
+
+#: amp/amp.php:44 inc/tour_html/single/tour.php:17
+msgid "person"
+msgstr ""
+
+#: amp/amp.php:52 inc/tour-meta-boxes.php:138 inc/tour_html/single/tour.php:25
+msgid "Duration"
+msgstr ""
+
+#: amp/amp.php:72 inc/tour-meta-boxes.php:129 inc/tour_html/single/tour.php:45
+msgid "Travellers"
+msgstr ""
+
+#: amp/amp.php:84 inc/tour_html/list/tour.php:215
+#: inc/tour_html/list/tour.php:285 inc/tour_html/single/tour.php:57
+msgid "Reviews"
+msgstr ""
+
+#: amp/amp.php:86 inc/tour_html/list/tour.php:212
+#: inc/tour_html/list/tour.php:282 inc/tour_html/single/comment.php:38
+#: inc/tour_html/single/tour.php:59
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: amp/amp.php:87 inc/tour_html/list/tour.php:213
+#: inc/tour_html/list/tour.php:283 inc/tour_html/single/comment.php:40
+#: inc/tour_html/single/tour.php:60
+msgid "out of 5"
+msgstr ""
+
+#: amp/amp.php:154 inc/tour_html/single/tour.php:152
+msgid "What's included"
+msgstr ""
+
+#: amp/amp.php:174 inc/tour_html/single/tour.php:172
+msgid "Discover Destinations"
+msgstr ""
+
+#: amp/amp.php:193 inc/tour_html/single/tour.php:192
+msgid "Tour Start Location"
+msgstr ""
+
+#: amp/amp.php:202 inc/tour-meta-boxes.php:52 inc/tour_html/single/tour.php:201
+msgid "Departure Location"
+msgstr ""
+
+#: amp/amp.php:211 inc/tour-meta-boxes.php:62 inc/tour_html/single/tour.php:210
+msgid "Return Location"
+msgstr ""
+
+#: amp/amp.php:219 inc/tour_html/single/tour.php:218
+msgid "Tour Start Date &amp; Time"
+msgstr ""
+
+#: amp/amp.php:223 inc/tour_html/single/tour.php:222
+msgid "View other Times"
+msgstr ""
+
+#: amp/amp.php:240 inc/tour_html/single/tour.php:243
+msgid "Additional Information"
+msgstr ""
+
+#: amp/amp.php:251 inc/tour_html/single/tour.php:254
+msgid "Price includes"
+msgstr ""
+
+#: amp/amp.php:264 inc/tour_html/single/tour.php:267
+msgid "Price does not include"
+msgstr ""
+
+#: amp/amp.php:277 inc/tour-meta-boxes.php:374
+#: inc/tour_html/single/tour.php:280
+msgid "Complementaries"
+msgstr ""
+
+#: amp/amp.php:297 inc/tour-meta-boxes.php:350
+#: inc/tour_html/single/tour.php:300
+msgid "Additional Prices"
+msgstr ""
+
+#: amp/templates/footer.php:4
+msgid "Back to top"
+msgstr ""
+
+#: amp/templates/meta-comments-link.php:5
+msgid "Book Now"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:20
+msgid "Custom JS"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:44 framework_bt_plugin/framework.php:157
+#: framework_bt_plugin/framework.php:270 framework_bt_plugin/framework.php:391
+msgid "Share on Facebook"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:66 framework_bt_plugin/framework.php:179
+#: framework_bt_plugin/framework.php:292 framework_bt_plugin/framework.php:406
+msgid "Share on Twitter"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:89 framework_bt_plugin/framework.php:202
+#: framework_bt_plugin/framework.php:314
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:111 framework_bt_plugin/framework.php:224
+#: framework_bt_plugin/framework.php:336 framework_bt_plugin/framework.php:437
+msgid "Share on VK"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:133 framework_bt_plugin/framework.php:246
+#: framework_bt_plugin/framework.php:358 framework_bt_plugin/framework.php:453
+msgid "Share on WhatsApp"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:421
+msgid "Share on Linkedin"
+msgstr ""
+
+#: inc/config-meta-boxes.php:435 widgets/widgets.php:78 widgets/widgets.php:186
+msgid "Title:"
+msgstr ""
+
+#: inc/config-meta-boxes.php:436
+msgid "Headline:"
+msgstr ""
+
+#: inc/config-meta-boxes.php:437
+msgid "Description:"
+msgstr ""
+
+#: inc/include_ajax.php:53
+msgctxt "page delimiter"
+msgid ","
+msgstr ""
+
+#: inc/tour-meta-boxes.php:12
+msgid "Author Review Summary"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:17
+#, php-format
+msgid ""
+"Describe your own Review Summary for the Tour.<br /><a href=\"%s\" "
+"target=\"_blank\" ><span class=\"dashicons dashicons-editor-help\"></span> "
+"Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:21
+msgid "Author Reviews"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:26
+#, php-format
+msgid ""
+"Set grades for your Tour Review.<br /><a href=\"%s\" target=\"_blank\" >"
+"<span class=\"dashicons dashicons-editor-help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:30
+msgid "User Reviews"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:34
+#, php-format
+msgid ""
+"Set or override basic settings on what users can rate in the comments.<br />"
+"<a href=\"%s\" target=\"_blank\" ><span class=\"dashicons dashicons-editor-"
+"help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:42
+msgid "Tour Reviews"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:58
+#, php-format
+msgid ""
+"Describe departure location, with address or more.<br /><a href=\"%s\" "
+"target=\"_blank\" ><span class=\"dashicons dashicons-editor-help\"></span> "
+"Learn more</a>"
+msgstr ""
+"Opiši tur adresu, sa adresom ili nečim drugim.<br /><a href=\"%s\" "
+"target=\"_blank\" ><span class=\"dashicons dashicons-editor-help\"></span> "
+"Nauči više</a>"
+
+#: inc/tour-meta-boxes.php:68
+#, php-format
+msgid ""
+"Describe return location, with address or more.<br /><a href=\"%s\" "
+"target=\"_blank\" ><span class=\"dashicons dashicons-editor-help\"></span> "
+"Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:72
+msgid "Promo Super Title"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:78
+#, php-format
+msgid ""
+"Promo Super Title shows at the start of the Tour info, above Promo Title.<br "
+"/><a href=\"%s\" target=\"_blank\" ><span class=\"dashicons dashicons-editor-"
+"help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:82
+msgid "Promo Title"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:88
+#, php-format
+msgid ""
+"Promo Super Title shows at the start of the Tour info.<br /><a href=\"%s\" "
+"target=\"_blank\" ><span class=\"dashicons dashicons-editor-help\"></span> "
+"Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:92
+msgid "Promo Subtitle"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:98
+#, php-format
+msgid ""
+"Promo Subtitle shows at the start of the Tour info, below Promo Title.<br />"
+"<a href=\"%s\" target=\"_blank\" ><span class=\"dashicons dashicons-editor-"
+"help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:102
+msgid "Current Price"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:107
+#, php-format
+msgid ""
+"The current price of the Tour per person, eg. the price users will search "
+"for.<br /><a href=\"%s\" target=\"_blank\" ><span class=\"dashicons "
+"dashicons-editor-help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:111
+msgid "Old Price"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:116
+#, php-format
+msgid ""
+"Old, striketrough price of the Tour. For information and discount purposes."
+"<br /><a href=\"%s\" target=\"_blank\" ><span class=\"dashicons dashicons-"
+"editor-help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:120
+msgid "Discount Title"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:125
+#, php-format
+msgid ""
+"Discount or promo title shown in alternate color, above the Tour price.<br />"
+"<a href=\"%s\" target=\"_blank\" ><span class=\"dashicons dashicons-editor-"
+"help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:134
+#, php-format
+msgid ""
+"The minimum number of travellers required for the tour.<br /><a href=\"%s\" "
+"target=\"_blank\" ><span class=\"dashicons dashicons-editor-help\"></span> "
+"Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:143
+#, php-format
+msgid ""
+"Write the duration of the tour, in days or hours.<br /><a href=\"%s\" "
+"target=\"_blank\" ><span class=\"dashicons dashicons-editor-help\"></span> "
+"Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:147
+msgid "Booking link"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:152
+#, php-format
+msgid ""
+"Instead of using booking and enquiry Contact form 7 forms, you can use this "
+"field to override it and take users to a specific link when they click on <b>"
+"Book this tour</b> button. This link will open up in a new window.<br><a "
+"href=\"%s\" target=\"_blank\" ><span class=\"dashicons dashicons-editor-"
+"help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:159
+msgid "Tour Settings"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:181
+msgid "Tour Media"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:188
+msgid "Gallery Images"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:189
+#, php-format
+msgid ""
+"Select images that will shown up in Tour Gallery tab.<br /><a href=\"%s\" "
+"target=\"_blank\" ><span class=\"dashicons dashicons-editor-help\"></span> "
+"Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:199
+msgid "Featured Images"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:200
+#, php-format
+msgid ""
+"Select images that will shown up in a Tour Header slider.<br /><a "
+"href=\"%s\" target=\"_blank\" ><span class=\"dashicons dashicons-editor-"
+"help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:209
+msgid "Featured Videos"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:210
+#, php-format
+msgid ""
+"Youtube video URLs that will shown up in a Tour Header and in Tour Gallery "
+"tab.<br /><a href=\"%s\" target=\"_blank\" ><span class=\"dashicons "
+"dashicons-editor-help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:216
+msgid "Enter Video URL"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:226
+msgid "Tour Start Dates & Times"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:232
+msgid "Everyday Tour"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:233
+msgid "Tour is Everyday Tour."
+msgstr ""
+
+#: inc/tour-meta-boxes.php:241
+msgid "Everyday Tour Start Time"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:242
+msgid ""
+"Enter Everyday Tour Start Time that will show up on tour details. It will "
+"overwrite Start Dates & Times for the tour."
+msgstr ""
+
+#: inc/tour-meta-boxes.php:257
+msgid "Start Dates & Times"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:258
+#, php-format
+msgid ""
+"Enter dates and times for a Tour that will show up on details. You can add "
+"more than one, simply click <b>+Add more button</b>.<br /><a href=\"%s\" "
+"target=\"_blank\" ><span class=\"dashicons dashicons-editor-help\"></span> "
+"Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:278
+msgid "Tour Information"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:284
+msgid "Price include"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:285
+#, php-format
+msgid ""
+"The properties that a Single Tour includes.<br><a href=\"%s\" "
+"target=\"_blank\" ><span class=\"dashicons dashicons-editor-help\"></span> "
+"Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:294
+msgid "Price don't include"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:295
+#, php-format
+msgid ""
+"The properties that a Single Tour does not include.<br><a href=\"%s\" "
+"target=\"_blank\" ><span class=\"dashicons dashicons-editor-help\"></span> "
+"Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:304
+msgid "Location Description/More About Tour"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:305
+#, php-format
+msgid ""
+"This is the content that appears in Additional Info tab o na Single Tour. "
+"You can leave it out if it's not required.<br><a href=\"%s\" "
+"target=\"_blank\" ><span class=\"dashicons dashicons-editor-help\"></span> "
+"Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:321
+msgid "Tour Plan"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:329
+msgid "Tour Plan Contents"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:330
+#, php-format
+msgid ""
+"Create a Tour Plan by adding days with their titles and descriptions.<br><a "
+"href=\"%s\" target=\"_blank\" ><span class=\"dashicons dashicons-editor-"
+"help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:343
+msgid "Tour Additional"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:351
+#, php-format
+msgid ""
+"Set additional tour prices that your Tour might have. They will appear at "
+"the end of the Tour basic information.<br /><a href=\"%s\" target=\"_blank\" "
+"><span class=\"dashicons dashicons-editor-help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:356 inc/tour-meta-boxes.php:368
+#: inc/tour-meta-boxes.php:380 inc/tour_html/single/comment.php:281
+msgid "Title"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:362
+msgid "Additional Info"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:363
+#, php-format
+msgid ""
+"Set additional information about the Tour. They will appear above what the "
+"Price includes.<br /><a href=\"%s\" target=\"_blank\" ><span "
+"class=\"dashicons dashicons-editor-help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:369 inc/tour-meta-boxes.php:381
+msgid "Description"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:375
+#, php-format
+msgid ""
+"Set Complementaries about the Tour. They will appear below what the Price "
+"doesn't include.<br /><a href=\"%s\" target=\"_blank\" ><span "
+"class=\"dashicons dashicons-editor-help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:392
+msgid "Tour Google Map Routes"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:399
+msgid "Google Map Embed"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:400
+#, php-format
+msgid ""
+"Enter the URL of the IFRAME SRC tag Google Mape gave you when sharing a "
+"public map to embed it in the Tour.<br /><a href=\"%s\" target=\"_blank\" >"
+"<span class=\"dashicons dashicons-editor-help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:403
+msgid "Enter IFRAME src"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:409
+msgid "Google Map KMZ or KML File"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:410
+#, php-format
+msgid ""
+"Add a KMZ or KML file Google Maps or Google Earth exported to embed it in "
+"the Tour.<br /><a href=\"%s\" target=\"_blank\" ><span class=\"dashicons "
+"dashicons-editor-help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:421
+msgid "Tour Custom Tab"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:428
+msgid "Tour Custom Tab Title"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:429
+#, php-format
+msgid ""
+"Set custom tab title. It will appear as title in tour single view tabs.<br />"
+"<a href=\"%s\" target=\"_blank\" ><span class=\"dashicons dashicons-editor-"
+"help\"></span> Learn more</a>"
+msgstr ""
+"Postavi custom tab naslov. Prikazaće se kao naslov u tabovima na prikazu "
+"pojedinačne ture.<br /><a href=\"%s\" target=\"_blank\" ><span "
+"class=\"dashicons dashicons-editor-help\"></span> Nauči više</a>"
+
+#: inc/tour-meta-boxes.php:432
+msgid "Enter Tour Custom Tab Title"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:438
+msgid "Tour Custom Tab Content"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:439
+#, php-format
+msgid ""
+"Set custom tab content. It will appear as content in tour single view tabs."
+"<br /><a href=\"%s\" target=\"_blank\" ><span class=\"dashicons dashicons-"
+"editor-help\"></span> Learn more</a>"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:498
+msgid "Tour Destination More About"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:501
+msgid ""
+"Enter more description for this Tour Destination, to promote it on the "
+"Single Tour. It will be shown below the map on the Single Tour, on Location "
+"tab."
+msgstr ""
+
+#: inc/tour-meta-boxes.php:505 inc/tour-meta-boxes.php:526
+#: inc/tour-meta-boxes.php:546 inc/tour-meta-boxes.php:603
+#: inc/tour-meta-boxes.php:678
+msgid "For more help with this setting, please"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:505 inc/tour-meta-boxes.php:526
+#: inc/tour-meta-boxes.php:546 inc/tour-meta-boxes.php:603
+#: inc/tour-meta-boxes.php:678 widgets/widgets.php:123 widgets/widgets.php:230
+msgid "click here"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:520 inc/tour-meta-boxes.php:539
+msgid "Tour Destination Page Slug"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:522 inc/tour-meta-boxes.php:542
+msgid ""
+"Enter a valid Page Slug for This Tour Destination. It will be used to link "
+"to a Destination page from Single Tour page. If not added, the link will not "
+"be shown."
+msgstr ""
+
+#: inc/tour-meta-boxes.php:586 inc/tour-meta-boxes.php:658
+msgid "Tour Destination Location"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:592 inc/tour-meta-boxes.php:667
+msgid ""
+"Get both values, latitude and longitude from Google Maps. When you search "
+"for a location, right click on once you found it it and select 'What's here' "
+"and then you'll get the valued in the bottom of the Google Maps screen."
+msgstr ""
+
+#: inc/tour-meta-boxes.php:599 inc/tour-meta-boxes.php:674
+msgid ""
+"Select this Tour Destination on Map. Drag the Pin across the map or search "
+"for the location on the map with a search field."
+msgstr ""
+
+#: inc/tour-meta-boxes.php:661
+msgid "Destination Latitude"
+msgstr ""
+
+#: inc/tour-meta-boxes.php:665
+msgid "Destination Longitude"
+msgstr ""
+
+#: inc/tour_html/list/tour.php:34 inc/tour_html/list/tour.php:57
+msgid "Sorry! There are no tours matching your search."
+msgstr ""
+
+#: inc/tour_html/list/tour.php:35 inc/tour_html/list/tour.php:58
+msgid "Try changing your search filters."
+msgstr ""
+
+#: inc/tour_html/list/tour.php:132 inc/tour_html/list/tour.php:321
+#: inc/tour_html/widget/tour.php:84 inc/tour_html/widget/tour.php:130
+#: inc/tour_html/widget/tour.php:189 inc/tour_html/widget/tour.php:247
+msgid "From"
+msgstr ""
+
+#: inc/tour_html/list/tour.php:277
+msgid "View Details"
+msgstr ""
+
+#: inc/tour_html/list/tour.php:350
+msgid "Load more tours"
+msgstr ""
+
+#: inc/tour_html/list/tour.php:366
+msgid "Previous"
+msgstr ""
+
+#: inc/tour_html/list/tour.php:367
+msgid "Next"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:15
+msgid "Pingback:"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:15
+msgid "(Edit)"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:47
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/tour_html/single/comment.php:80
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:82
+msgid "Reply"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:84
+msgid "Edit"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:115 inc/tour_html/single/comment.php:150
+msgid "Review Rating *"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:214
+msgid ""
+"Error: You did not add a rating. Hit the Back button on your Web browser and "
+"resubmit your comment with a rating."
+msgstr ""
+
+#: inc/tour_html/single/comment.php:262
+msgid "Extended Comment"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:285
+msgid "Rating: "
+msgstr ""
+
+#: inc/tour_html/single/comment.php:306
+msgid "Rating for "
+msgstr ""
+
+#: inc/tour_html/single/openmap.php:119
+msgid "Please update Travelicious Plugin"
+msgstr ""
+
+#: inc/tour_html/single/tour.php:77
+msgid "Book this Tour"
+msgstr ""
+
+#: inc/tour_html/single/tour.php:181
+#, php-format
+msgid "Discover %1$s"
+msgstr ""
+
+#: inc/tour_html/single/tour.php:414
+msgid "More about"
+msgstr ""
+
+#: inc/tour_html/single/tour.php:416
+msgid "Discover"
+msgstr ""
+
+#: inc/tour_html/single/tour.php:509
+msgid "More about this tour"
+msgstr ""
+
+#: inc/tour_html/single/tour.php:608 inc/tour_html/single/tour.php:618
+msgid "Sorry! There are no similiar tours."
+msgstr ""
+
+#: widgets/bt_searchtours_widget.php:35
+msgid "Tour Keywords"
+msgstr ""
+
+#: widgets/bt_searchtours_widget.php:42
+msgid "Select your Destination"
+msgstr ""
+
+#: widgets/bt_searchtours_widget.php:51
+msgid "Departure Date"
+msgstr ""
+
+#: widgets/bt_searchtours_widget.php:60
+msgid "Price From"
+msgstr ""
+
+#: widgets/bt_searchtours_widget.php:64
+msgid "Price To"
+msgstr ""
+
+#: widgets/bt_searchtours_widget.php:75
+msgid "Categories"
+msgstr ""
+
+#: widgets/bt_searchtours_widget.php:92 widgets/widgets.php:21
+msgid "More categories"
+msgstr ""
+
+#: widgets/widgets.php:19
+msgid "Current month"
+msgstr ""
+
+#: widgets/widgets.php:20
+msgid "Clear"
+msgstr ""
+
+#: widgets/widgets.php:22
+msgid "Less categories"
+msgstr ""
+
+#: widgets/widgets.php:45
+msgid "BT Search Tours"
+msgstr ""
+
+#: widgets/widgets.php:47
+msgid "Displays a search form and define it's fields and parameters."
+msgstr ""
+
+#: widgets/widgets.php:82
+msgid "Label for Keyword:"
+msgstr ""
+
+#: widgets/widgets.php:86
+msgid "Label for Destination:"
+msgstr ""
+
+#: widgets/widgets.php:90
+msgid "Label for Departure Date:"
+msgstr ""
+
+#: widgets/widgets.php:94
+msgid "Label for Price From:"
+msgstr ""
+
+#: widgets/widgets.php:98
+msgid "Label for Price To:"
+msgstr ""
+
+#: widgets/widgets.php:102
+msgid "Label for Search Button:"
+msgstr ""
+
+#: widgets/widgets.php:107
+msgid "Show Keyword Filter"
+msgstr ""
+
+#: widgets/widgets.php:111
+msgid "Show Departure Date Filter"
+msgstr ""
+
+#: widgets/widgets.php:115
+msgid "Show Prices Filter"
+msgstr ""
+
+#: widgets/widgets.php:119
+msgid "Show Categories Filter"
+msgstr ""
+
+#: widgets/widgets.php:123 widgets/widgets.php:230
+msgid "For more help with this widget, please"
+msgstr ""
+
+#: widgets/widgets.php:156
+msgid "BT Tours"
+msgstr ""
+
+#: widgets/widgets.php:158
+msgid ""
+"Show a number of Tours in a sidebar or widget area filtered by Destination, "
+"define it's design and sorting options."
+msgstr ""
+
+#: widgets/widgets.php:190
+msgid "Destination Slug (or slugs separated by \";\")"
+msgstr ""
+
+#: widgets/widgets.php:194
+msgid "Max Number of Tours To Show:"
+msgstr ""
+
+#: widgets/widgets.php:198
+msgid "Single Tour Design:"
+msgstr ""
+
+#: widgets/widgets.php:202
+msgid "List"
+msgstr ""
+
+#: widgets/widgets.php:203
+msgid "Regular"
+msgstr ""
+
+#: widgets/widgets.php:204
+msgid "Gallery"
+msgstr ""
+
+#: widgets/widgets.php:205
+msgid "Tiles"
+msgstr ""
+
+#: widgets/widgets.php:218
+msgid "Order By:"
+msgstr ""
+
+#: widgets/widgets.php:220
+msgid "Sort by date ascending"
+msgstr ""
+
+#: widgets/widgets.php:221
+msgid "Sort by date descending"
+msgstr ""
+
+#: widgets/widgets.php:222
+msgid "Sort by name - A to Z"
+msgstr ""
+
+#: widgets/widgets.php:223
+msgid "Sort by name - Z to A"
+msgstr ""
+
+#: widgets/widgets.php:224
+msgid "Sort by price - low to high"
+msgstr ""
+
+#: widgets/widgets.php:225
+msgid "Sort by price - high to low"
+msgstr ""

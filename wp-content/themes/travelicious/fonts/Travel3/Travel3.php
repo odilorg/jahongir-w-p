@@ -1,0 +1,42 @@
+<?php
+
+$set = strtolower( basename(__FILE__, '.php') );
+
+$$set = array(
+	'yacht (Travel3 set)' => $set . '_e900',
+	'worldwide (Travel3 set)' => $set . '_e901',
+	'umbrella (Travel3 set)' => $set . '_e902',
+	'railway (Travel3 set)' => $set . '_e903',
+	'ticket (Travel3 set)' => $set . '_e904',
+	'taxi (Travel3 set)' => $set . '_e905',
+	'goggles (Travel3 set)' => $set . '_e906',
+	'scooter (Travel3 set)' => $set . '_e907',
+	'lifesaver (Travel3 set)' => $set . '_e908',
+	'postcard (Travel3 set)' => $set . '_e909',
+	'passport (Travel3 set)' => $set . '_e90a',
+	'mountain (Travel3 set)' => $set . '_e90b',
+	'placeholder (Travel3 set)' => $set . '_e90c',
+	'map (Travel3 set)' => $set . '_e90d',
+	'luggage (Travel3 set)' => $set . '_e90e',
+	'kayak (Travel3 set)' => $set . '_e90f',
+	'jacket (Travel3 set)' => $set . '_e910',
+	'hotel (Travel3 set)' => $set . '_e911',
+	'hiker (Travel3 set)' => $set . '_e912',
+	'flippers (Travel3 set)' => $set . '_e913',
+	'flip-flops (Travel3 set)' => $set . '_e914',
+	'fishing (Travel3 set)' => $set . '_e915',
+	'departure (Travel3 set)' => $set . '_e916',
+	'compass (Travel3 set)' => $set . '_e917',
+	'camping-tent (Travel3 set)' => $set . '_e918',
+	'camera (Travel3 set)' => $set . '_e919',
+	'calendar (Travel3 set)' => $set . '_e91a',
+	'bus (Travel3 set)' => $set . '_e91b',
+	'binoculars (Travel3 set)' => $set . '_e91c',
+	'bike (Travel3 set)' => $set . '_e91d',
+	'bed (Travel3 set)' => $set . '_e91e',
+	'island (Travel3 set)' => $set . '_e91f',
+	'backpack (Travel3 set)' => $set . '_e920',
+	'airplane (Travel3 set)' => $set . '_e921',
+	'flight (Travel3 set)' => $set . '_e922',
+	'air-balloon (Travel3 set)' => $set . '_e923'
+);
